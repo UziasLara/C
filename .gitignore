@@ -27,7 +27,8 @@
 *.i*86
 *.x86_64
 *.hex
-application/x-executable
+*
+!*.*
 
 # Debug files
 *.dSYM/
